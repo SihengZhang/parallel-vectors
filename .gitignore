@@ -82,3 +82,5 @@ conaninfo.txt
 conanfile.txt
 
 data/
+
+external/VTK-build/
